@@ -1,4 +1,4 @@
-![OpenHoo](https://raw.githubusercontent.com/openhoo/.github/main/assets/openhoo-banner.png)
+![OpenHoo](https://raw.githubusercontent.com/openhoo/.github/main/assets/openhoo-banner.png?v=2)
 
 <p align="center"><strong>Open-source tools for developers and self-hosters.</strong></p>
 
@@ -19,8 +19,14 @@ Our toolkit for code quality, security, releases, and local development.
 
 ## More from OpenHoo
 
-- **Build & test:** [PostOwl](https://github.com/openhoo/postowl) — API client · [Hoolypane](https://github.com/openhoo/hoolypane) — responsive browser testing · [HooSaidThat](https://github.com/openhoo/hoosaidthat) — screenreader tests.
-- **Self-host:** [Hootifactory](https://github.com/openhoo/hootifactory) — artifact registry · [Hoorific](https://github.com/openhoo/hoorific) — AI gateway.
-- **Create:** [Hooviestar](https://github.com/openhoo/hooviestar) — screen-share compositor · [Hootoshop](https://github.com/openhoo/hootoshop) — image editor.
+| Project | What it does |
+| --- | --- |
+| [PostOwl](https://github.com/openhoo/postowl) | Desktop API client. |
+| [Hoolypane](https://github.com/openhoo/hoolypane) | Responsive browser testing. |
+| [HooSaidThat](https://github.com/openhoo/hoosaidthat) | Screenreader tests for Playwright. |
+| [Hootifactory](https://github.com/openhoo/hootifactory) | Self-hosted artifact registry. |
+| [Hoorific](https://github.com/openhoo/hoorific) | Self-hosted AI gateway. |
+| [Hooviestar](https://github.com/openhoo/hooviestar) | Scene compositing for screen sharing. |
+| [Hootoshop](https://github.com/openhoo/hootoshop) | Browser-based image editor. |
 
 [Explore all projects](https://github.com/orgs/openhoo/repositories?type=public)

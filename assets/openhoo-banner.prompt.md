@@ -1,16 +1,18 @@
 # OpenHoo banner
 
-Generated with the built-in Imagegen tool. Brand reference: the existing
-[OpenHoo organization avatar](https://avatars.githubusercontent.com/u/261266993?v=4).
+Generated with the built-in Imagegen tool. New composition using OpenHoo's
+existing owl motif and navy, orange, and amber brand colors.
 
 ## Prompt
 
 ```text
 Use case: ads-marketing
-Asset type: GitHub organization profile hero banner.
-Edit request: transform the supplied square OpenHoo brand image into a polished wide horizontal banner, approximately 2400 by 800 pixels (3:1 aspect ratio). Preserve the recognizable owl character, its distinctive pointed ears, dark navy feather shapes, bright amber eyes, and orange highlights. The reference is the existing brand identity.
-Composition: generous safe margins and negative space; large perfectly legible OpenHoo wordmark across the left and middle; the owl at the right at a comfortable scale. Keep the owl and every letter fully inside the frame.
-Style: refined crisp illustrated brand artwork, clean shapes with restrained texture, premium editorial simplicity. Deep ink/navy background and amber/orange accents derived from the reference, soft ivory lettering for Open and orange for Hoo. A few subtle layered geometric tiles behind the owl suggest a modular developer tool stack. Very restrained warm rim light; no busy circuit-board wallpaper.
-Text (verbatim): "OpenHoo". Render exactly this casing and no other words, no slogans, no small print.
-Constraints: output a finished wide raster banner, not a screenshot or mockup. Preserve brand character. No UI, no badges, no random code, no watermark, no extra characters, no frame. The result must remain clear displayed at 900 pixels wide on both light and dark GitHub pages.
+Asset type: a new OpenHoo GitHub organization README banner, wide 3:1 landscape, target 2400 x 800.
+Primary request: create a fresh, polished visual identity banner for OpenHoo, an open-source developer tools organization. A new composition with a simplified geometric owl emblem on the left and spacious typography to its right.
+Scene/backdrop: matte midnight blue, almost black, with a very subtle blue gradient. Plenty of calm empty space.
+Subject and style: a confident, elegant geometric owl built from a few crisp layered shapes, sharply defined pointed ears, symmetrical amber eyes, deep navy body, and small warm orange accents. Mature modern graphic design, restrained layered paper depth and soft lighting, beautifully balanced silhouette. The owl should read as a designed emblem rather than a cartoon character or a realistic bird. The owl occupies roughly the left third with generous space around it.
+Typography: to the right of the owl, the single word "OpenHoo" in a very clean, bold contemporary sans serif. "Open" in soft white and "Hoo" in warm orange. Medium-large wordmark with generous breathing room, fully contained with safe margins. Strong balance between emblem and wordmark. Do not let either fill the entire height.
+Text (verbatim): "OpenHoo"
+Palette: existing OpenHoo colors, midnight navy, warm orange, amber, ivory.
+Constraints: only the exact word OpenHoo, no subtitles, no slogan, no extra text. No tiles, no floating squares, no network lines, no code wallpaper, no neon glow, no glossy 3D toy, no UI, no badges, no mockup frame, no watermark. Deliver a finished high-quality raster banner, crisp and readable at 900 pixels wide, with a clean composition at mobile size.
 ```
