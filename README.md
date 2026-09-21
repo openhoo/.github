@@ -1,4 +1,4 @@
-![OpenHoo](https://raw.githubusercontent.com/openhoo/.github/268d42421473d6c38a81744d074d6df88c4b3e16/assets/openhoo-banner.png)
+![OpenHoo](https://raw.githubusercontent.com/openhoo/.github/main/assets/openhoo-banner-logo.png)
 
 <p align="center"><strong>Open-source tools for developers and self-hosters.</strong></p>
 
